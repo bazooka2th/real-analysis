@@ -36,7 +36,7 @@ algolia:
   powered_by: # true (default), false
 google_analytics: UA-119550146-2
 disqus:
-  shortname: bazooka2th
+  shortname: real-analysis
 
 # Build settings
 markdown: kramdown
