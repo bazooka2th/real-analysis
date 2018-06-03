@@ -28,11 +28,11 @@ github_username: bazooka2th
 logo: "/assets/images/BoxCube.svg"
 search: true
 search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_provider: algolia # lunr (default), algolia
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  application_id: FVA3YU0UZ8
+  index_name: real-analysis
+  search_only_api_key: 99c6232cfcebb13643b48a293601ba47
   powered_by: # true (default), false
 google_analytics: UA-119550146-2
 disqus:
