@@ -16,7 +16,7 @@
 lang: en-US
 title: Introductory Real Analysis
 email:
-description: "Exercises and solutions from an undergraduate real analysis course"
+description: "Exercises and solutions from an undergraduate course"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
