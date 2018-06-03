@@ -1,4 +1,4 @@
-# [Solutions for some problems in real analysis][1]
+# [Solutions for some exercises in real analysis][1]
 
 [![LICENSE](https://img.shields.io/badge/license-BY--SA-blue.svg)](https://github.com/bazooka2th/real-analysis/blob/master/LICENSE.md)
 [![STATUS](https://img.shields.io/badge/status-in%20progress-orange.svg "still working on it!")][1]
