@@ -31,4 +31,4 @@ We proceed by induction. When \(n = 1\), \(n^7 - n = 0\). Because \(7 \mid 0\), 
 By our inductive hypothesis, the first addend above is divisible by 7, and clearly the second addend is also divisible by 7. By the principle of mathematical induction, it follows that \(n^7 - n\) is a multiple of \(7\) for every natural \(n\).
 </div>
 
-It seems to be that \(\forall n \in \mathcal{N}\enspace p \mid (n^p - n)\) if and only if \(p\) is prime. My reference for the proof of this fact must be incorrect, it mentions <a href="http://libgen.io/book/index.php?md5=8C1DD1ADA94B485EB54B38C5E313C8D6">Calvin C. Clawson's *Mathematical Mysteries: The Beauty and Magic of Numbers*</a> page 134, but that page doesn't mention this fact.
+It seems to be that \\(\\forall n \\in \\mathcal{N}\\enspace p \\mid (n^p - n)\\) if and only if \\(p\\) is prime. My reference for the proof of this fact must be incorrect, it mentions <a href="http://libgen.io/book/index.php?md5=8C1DD1ADA94B485EB54B38C5E313C8D6">Calvin C. Clawson's *Mathematical Mysteries: The Beauty and Magic of Numbers*</a> page 134, but that page doesn't mention this fact.
