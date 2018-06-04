@@ -1,5 +1,5 @@
 ---
-title: "1. Logic and Proof Techniques"
+title: {{ "Logic and Proof Techniques" | prepend: "1:" }}
 excerpt: "Proofs by induction."
 tags:
   - induction
