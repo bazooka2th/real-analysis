@@ -16,10 +16,10 @@ last_modified_at: 2018-06-03T15:42:13-05:00
   \(5 \mid (k^5 - k)\) for some \(k \geq 1\). We intend to show that this
   implies the truth of the statement for \(k + 1\), that is, that
   \(5 \mid ((k + 1)^5 - (k + 1))\). Now,
-  \begin{aligned}
+  \[\begin{aligned}
     (k + 1)^5 - (k + 1) &= k^5 + 5k^4 + 10k^3 + 10k^2 + 5k + 1 - k - 1\\
     &= (k^5 - k) + (5k^4 + 10k^3 + 10k^2 + 5k).
-  \end{aligned}
+  \end{aligned}\]
   Clearly, 5 divides the second addend, and by our inductive hypothesis
   5 divides the first addend also. Therefore \(5 \mid (k^5 - k) \implies
   5 \mid ((k + 1)^5 - (k + 1))\), and the statement is true for all
