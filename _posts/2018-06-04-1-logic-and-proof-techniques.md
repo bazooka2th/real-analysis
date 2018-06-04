@@ -3,9 +3,9 @@ title: "&#x200b;1. Logic and Proof Techniques"
 excerpt: "Proofs by induction."
 tags:
   - induction
-last_modified_at: 2018-06-03T15:42:13-05:00
+last_modified_at: 2018-06-04T03:39:16-05:00
 ---
-
+## Exercise 1.1
 > Use mathematical induction to prove that for all natural numbers \\(n\\):
 > 1. \\(n^5 - n\\) is a multiple of 5, and
 > 2. \\(n^7 - n\\) is a multiple of 7.
@@ -28,5 +28,7 @@ We proceed by induction. When \(n = 1\), \(n^7 - n = 0\). Because \(7 \mid 0\), 
   + 1 - k - 1\\
   &= (k^7 - k) + 7(k^6 + 3k^5 + 5k^4 + 5k^3 + 3k^2 + k).
 \end{aligned}\]
-By our inductive hypothesis, the first addend above is divisible by 7, and clearly the second addend is also divisible by 7. By the principle of mathematical induction, it follows that \(7 \mid (n^7 - n)\) for every natural \(n\).
+By our inductive hypothesis, the first addend above is divisible by 7, and clearly the second addend is also divisible by 7. By the principle of mathematical induction, it follows that \(n^7 - n\) is a multiple of \(7\) for every natural \(n\).
 </div>
+
+It seems to be that \(\forall n \in \mathcal{N}\enspace p \mid (n^p - n)\) if and only if \(p\) is prime. My reference for the proof of this fact must be incorrect, it mentions <a href="http://libgen.io/book/index.php?md5=8C1DD1ADA94B485EB54B38C5E313C8D6">Calvin C. Clawson's *Mathematical Mysteries: The Beauty and Magic of Numbers*</a> page 134, but that page doesn't mention this fact.
