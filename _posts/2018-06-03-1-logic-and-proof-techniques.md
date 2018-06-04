@@ -1,5 +1,5 @@
 ---
-title: "**1.** Logic and Proof Techniques"
+title: "**one1.** Logic and Proof Techniques"
 excerpt: "Proofs by induction.""
 tags:
   - induction
