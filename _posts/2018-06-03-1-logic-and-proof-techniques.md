@@ -6,4 +6,4 @@ tags:
 last_modified_at: 2018-06-03T15:42:13-05:00
 ---
 
-More words go here.
+> Use mathematical induction to prove that for all natural numbers \(n\)
