@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Introductory Real Analysis
+title: "Introductory Real Analysis"
 email:
 description: "Exercises and solutions from an undergraduate course"
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -38,6 +38,7 @@ algolia:
 google_analytics: UA-119550146-2
 disqus:
   shortname: real-analysis
+permalink: title
 
 # Build settings
 markdown: kramdown
