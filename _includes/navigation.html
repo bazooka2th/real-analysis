@@ -21,5 +21,14 @@
         </li>
       {% endif %}
     {% endfor %}
+
+    <!-- post links -->
+    {% for post in site.posts reversed %}
+      <li class="menu-item">
+        <a href="{{ post.url | relative_url }}" itemprop="url">
+          <span itemprop="name">{{ post.title | escape }}</span>
+        </a>
+      </li>
+    {% endfor %}
   </ul>
 </nav>
