@@ -1,5 +1,5 @@
 ---
-title: "**2.** Sets and Functions"
+title: "2. Sets and Functions"
 excerpt: "Elementary set theory."
 tags:
   - set
