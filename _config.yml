@@ -25,6 +25,7 @@ author:
   picture:
 twitter_username:
 github_username: bazooka2th
+github_repo: real-analysis
 logo: "/assets/images/BoxCube.svg"
 search: true
 search_full_content: false # true, false (default)

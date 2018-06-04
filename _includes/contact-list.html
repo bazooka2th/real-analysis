@@ -9,14 +9,14 @@
   {% endif %}
 
   <li>
-    <a href="https://bitbucket.org/bazooka_tooth/modern-algebra-homework-portfolio/" title="Abstract Algebra">
+    <a href="https://bitbucket.org/bazooka_tooth/modern-algebra-homework-portfolio/" title="Bitbucket">
       <span class="icon icon--bitbucket">{% include icon-bitbucket.svg %}</span>
-      <span class="label">Abstract Algebra</span>
+      <span class="label">Some abstract algebra homework</span>
     </a>
   </li>
 
   {% if site.github_username %}
-    <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
+    <li>{% include icon-github.html username=site.github_username repo=site.github_repo label='This site's source code' %}</li>
   {% endif %}
 
   {% if site.twitter_username %}
