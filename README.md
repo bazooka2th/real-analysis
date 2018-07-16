@@ -6,7 +6,5 @@
 
 This project has moved to [my GitLab page.][2]
 
-This project has moved to [my GitLab page.][2]
-
 [1]: https://bazooka2th.github.io/real-analysis/
 [2]: https://gitlab.com/bazooka2th/real-analysis
