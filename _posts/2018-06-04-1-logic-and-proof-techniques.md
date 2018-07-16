@@ -32,3 +32,8 @@ By our inductive hypothesis, the first addend above is divisible by 7, and clear
 </div>
 
 It seems to be that \\(\\forall n \\in \\mathcal{N}\\enspace p \\mid (n^p - n)\\) if and only if \\(p\\) is prime. My reference for the proof of this fact must be incorrect, it mentions <a href="http://libgen.io/book/index.php?md5=8C1DD1ADA94B485EB54B38C5E313C8D6">Calvin C. Clawson's *Mathematical Mysteries: The Beauty and Magic of Numbers*</a> page 134, but that page doesn't mention this fact.
+
+## Exercise 1.2
+> For all natural numbers \\(n\\) is \\(3^{2n} - 8n + 1\\) divisible by 64?
+
+No. When \\(n = 1\\), \\(3^{2n} - 8n + 1 = 9 - 8 + 1 = 2\\), which is not divisible by 64. However, for all natural numbers \\(n \\geq 2\\), \\(64 \\mid (3^{2n} - 8n - 1)\\).

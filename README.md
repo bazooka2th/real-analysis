@@ -6,4 +6,7 @@
 
 This is the repository supporting a Github pages site that contains some of my work done for an undergraduate real analysis course. [Visit the page][1] if you like!
 
+This project has moved to [my GitLab page.][2]
+
 [1]: https://bazooka2th.github.io/real-analysis/
+[2]: https://gitlab.com/bazooka2th/real-analysis
